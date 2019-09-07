@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suburban Dignostic Test Automation Test Suite]">
+  <test name="Suburban Dignostic Test Cases(failed)">
+    <classes>
+      <class name="com.qa.testpages.ShareReportTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="ConsultingPractionerClinicShareReportTest" invocation-numbers="0 1 2 3"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.qa.testpages.ShareReportTest -->
+    </classes>
+  </test> <!-- Suburban Dignostic Test Cases(failed) -->
+</suite> <!-- Failed suite [Suburban Dignostic Test Automation Test Suite] -->

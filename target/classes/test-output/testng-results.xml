@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suburban Dignostic Test Automation Test Suite" duration-ms="171049" started-at="2019-09-07T17:33:04Z" finished-at="2019-09-07T17:35:55Z">
+    <groups>
+    </groups>
+    <test name="Suburban Dignostic Test Cases" duration-ms="171049" started-at="2019-09-07T17:33:04Z" finished-at="2019-09-07T17:35:55Z">
+      <class name="com.qa.testpages.ShareReportTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="setup" is-config="true" duration-ms="41138" started-at="2019-09-07T23:03:04Z" finished-at="2019-09-07T23:03:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyShareReportTitleTest()[pri:1, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="verifyShareReportTitleTest" duration-ms="51" started-at="2019-09-07T23:03:45Z" finished-at="2019-09-07T23:03:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShareReportTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="tearDown" is-config="true" duration-ms="1218" started-at="2019-09-07T23:03:45Z" finished-at="2019-09-07T23:03:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="setup" is-config="true" duration-ms="30255" started-at="2019-09-07T23:03:49Z" finished-at="2019-09-07T23:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ConsultingPractionerClinicShareReportTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="ConsultingPractionerClinicShareReportTest" duration-ms="6202" started-at="2019-09-07T23:04:19Z" data-provider="getSuburbanTestData" finished-at="2019-09-07T23:04:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kritika]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bandra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[400010.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kritika@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.896258677E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsultingPractionerClinicShareReportTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="tearDown" is-config="true" duration-ms="1010" started-at="2019-09-07T23:04:25Z" finished-at="2019-09-07T23:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="setup" is-config="true" duration-ms="38290" started-at="2019-09-07T23:04:26Z" finished-at="2019-09-07T23:05:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ConsultingPractionerClinicShareReportTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="ConsultingPractionerClinicShareReportTest" duration-ms="5809" started-at="2019-09-07T23:05:04Z" data-provider="getSuburbanTestData" finished-at="2019-09-07T23:05:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mukta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[miraroad]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[400012.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mukta@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.896258677E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsultingPractionerClinicShareReportTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="tearDown" is-config="true" duration-ms="1245" started-at="2019-09-07T23:05:10Z" finished-at="2019-09-07T23:05:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="setup" is-config="true" duration-ms="14307" started-at="2019-09-07T23:05:12Z" finished-at="2019-09-07T23:05:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ConsultingPractionerClinicShareReportTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="ConsultingPractionerClinicShareReportTest" duration-ms="4598" started-at="2019-09-07T23:05:26Z" data-provider="getSuburbanTestData" finished-at="2019-09-07T23:05:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[latika]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[colaba]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[400022.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[latika@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.896258677E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsultingPractionerClinicShareReportTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="tearDown" is-config="true" duration-ms="856" started-at="2019-09-07T23:05:30Z" finished-at="2019-09-07T23:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="setup" is-config="true" duration-ms="16124" started-at="2019-09-07T23:05:31Z" finished-at="2019-09-07T23:05:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ConsultingPractionerClinicShareReportTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="ConsultingPractionerClinicShareReportTest" duration-ms="6176" started-at="2019-09-07T23:05:47Z" data-provider="getSuburbanTestData" finished-at="2019-09-07T23:05:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sridhar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[andheri]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[400015.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sridhar@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.896258677E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsultingPractionerClinicShareReportTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testpages.ShareReportTest@26be92ad]" name="tearDown" is-config="true" duration-ms="943" started-at="2019-09-07T23:05:54Z" finished-at="2019-09-07T23:05:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testpages.ShareReportTest -->
+    </test> <!-- Suburban Dignostic Test Cases -->
+  </suite> <!-- Suburban Dignostic Test Automation Test Suite -->
+</testng-results>
